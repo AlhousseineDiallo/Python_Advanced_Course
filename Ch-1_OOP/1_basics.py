@@ -1,5 +1,4 @@
 class MyClass:
-
     # Class variables
     var1 = "Ansh"
     var2 = "Lamba"
