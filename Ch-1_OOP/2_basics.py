@@ -53,7 +53,7 @@ p1: Person = Person(name="Jean", age=22)
 p2: Person = Person(name="Albert", age=32)
 p3: Person = Person(name="Jean", age=22)
 
-p1.name: str = 282983
+p1.name: str = "Jacob"
 # print(p1.name)
 print(p1.sepresenter())
 print(repr(p1))
